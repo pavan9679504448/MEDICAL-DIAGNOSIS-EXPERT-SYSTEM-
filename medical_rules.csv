@@ -1,0 +1,6 @@
+Rule_ID,Symptoms,Conclusion,Weight
+R1,fever;cough,Respiratory symptoms present,0.55
+R2,fever;body_ache;fatigue,Flu-like symptom pattern,0.6
+R3,sneezing;runny_nose,Allergy/cold-like symptom pattern,0.45
+R4,headache;nausea,Headache with nausea pattern,0.4
+R5,fever;rash,Fever with rash needs professional assessment,0.65
